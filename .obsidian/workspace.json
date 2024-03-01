@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "5dba3b1682281fb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a9e3b401b5193b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7de7e7125ca9229",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "698ebc4239ccd918",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8f38de65a7ad5ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3f17580e599c088",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b234b26f39cd6e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1459149341af2ecc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207.5
+  },
+  "right": {
+    "id": "080a157f34bdf501",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4608587f9e64937",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e10dcae2acdd7d00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "42d88747639a7fee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb0722d9c1885e63",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "20d64fe7e6e24766",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Intro.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b7de7e7125ca9229",
+  "lastOpenFiles": [
+    "Intro.md",
+    "Hans Selye.md",
+    "Pyruvate Dehydrogenase.md",
+    "Glycolysis.md",
+    "Adenosine Triphosphate.md",
+    "Albert Szent-Györgyi.md",
+    "Pasted image 20240203120456.png",
+    "Pasted image 20240203114736.png",
+    "Pasted image 20240203120343.png",
+    "Pasted image 20240203120350.png",
+    "Citric acid cycle.md",
+    "[.md",
+    "Ketosis.md",
+    "Pasted image 20240203114710.png",
+    "trifosfato de adenosina.md",
+    "Broda Barnes.md",
+    "Gilbert Ling.md",
+    "Ray Peat.md",
+    "Otto Heinrich Warburg.md",
+    "Oxidative phosphorylation.md",
+    "Photosynthesis.md",
+    "Gluconeogenesis.md"
+  ]
+}

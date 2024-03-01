@@ -1,0 +1,11 @@
+![[Pasted image 20240203120456.png]]
+
+Glycolysis is the metabolic pathway that converts glucose (C6H12O6) into pyruvate, and in most organisms, occurs in the liquid part of cells, the cytosol. The free energy released in this process is used to form the high-energy molecules adenosine triphosphate (ATP) and reduced nicotinamide adenine dinucleotide (NADH). Glycolysis is a sequence of ten reactions catalyzed by enzymes.
+
+The wide occurrence of glycolysis in other species indicates that it is an ancient metabolic pathway.[2] Indeed, the reactions that make up glycolysis and its parallel pathway, the pentose phosphate pathway, can occur in the oxygen-free conditions of the Archean oceans, also in the absence of enzymes, catalyzed by metal ions, meaning this is a plausible prebiotic pathway for abiogenesis.[3]
+
+The most common type of glycolysis is the Embden–Meyerhof–Parnas (EMP) pathway, which was discovered by Gustav Embden, Otto Meyerhof, and Jakub Karol Parnas. Glycolysis also refers to other pathways, such as the Entner–Doudoroff pathway and various heterofermentative and homofermentative pathways. However, the discussion here will be limited to the Embden–Meyerhof–Parnas pathway.[4]
+
+The glycolysis pathway can be separated into two phases:[5]
+1. Investment phase – wherein ATP is consumed
+2. Yield phase – wherein more ATP is produced than originally consumed

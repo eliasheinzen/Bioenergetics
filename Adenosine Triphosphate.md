@@ -1,0 +1,5 @@
+![[Pasted image 20240203114736.png]]
+
+Adenosine triphosphate (ATP) is a nucleic acid that provides energy to drive and support many processes in living cells, such as muscle contraction, nerve impulse propagation, condensate dissolution, and chemical synthesis. Found in all known forms of life, ATP is often referred to as the "molecular unit of currency" of intracellular energy transfer. When consumed in metabolic processes, it converts either to adenosine diphosphate (ADP) or to adenosine monophosphate (AMP). Other processes regenerate ATP. It is also a precursor to DNA and RNA, and is used as a coenzyme. A human adult processes around 50 kg of ATP daily.
+
+From the perspective of biochemistry, ATP is classified as a nucleoside triphosphate, which indicates that it consists of three components: a nitrogenous base (adenine), the sugar ribose, and the triphosphate.
